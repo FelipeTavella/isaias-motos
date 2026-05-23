@@ -69,7 +69,7 @@ O banco de dados foi desenvolvido em MySQL com:
 Arquivo SQL disponível em:
 
 ```txt
-/banco/banco_isaias_motos.sql
+/bd-isaias_motos.sql
 ```
 
 ---

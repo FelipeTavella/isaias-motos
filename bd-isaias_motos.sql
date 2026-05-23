@@ -322,14 +322,14 @@ INSERT INTO usuarios (
 )
 VALUES
 (
-    'Carlos Henrique',
-    'carlos@isaiasmotos.com',
+    'Felipe Pedroso Tavella',
+    'felipetavella@gmail.com',
     '123456',
     '(19)99999-1111'
 ),
 (
-    'Marcos Silva',
-    'marcos@isaiasmotos.com',
+    'Alex Pedroso Tavella',
+    'alextavella@gmail.com',
     '654321',
     '(19)99999-2222'
 );
@@ -348,18 +348,18 @@ INSERT INTO clientes (
 )
 VALUES
 (
-    'João Pedro',
+    'João Carlos da Silva',
     '(19)98888-1111',
     '(19)97777-1111',
-    'joao@email.com',
+    'joao.silva@email.com',
     'Rua A, 120',
     'SP'
 ),
 (
-    'Fernanda Lima',
+    'Maria Aparecida Oliveira',
     '(19)98888-2222',
     '(19)97777-2222',
-    'fernanda@email.com',
+    'maria.oliveira@email.com',
     'Rua B, 300',
     'SP'
 );
@@ -380,16 +380,16 @@ INSERT INTO motos (
 VALUES
 (
     'ABC1D23',
-    'CG 160',
+    'CG 160 Titan',
     'Honda',
-    2022,
+    2021,
     'Preta',
     'Moto em ótimo estado',
     1
 ),
 (
-    'XYZ9K88',
-    'Factor 150',
+    'XYZ9K87',
+    'Fazer 250',
     'Yamaha',
     2021,
     'Vermelha',
@@ -411,17 +411,17 @@ INSERT INTO pecas (
 )
 VALUES
 (
-    'Óleo 10W40',
-    35.00,
-    'Mobil',
+    'Óleo 10W30',
+    45.00,
+    'Lubrificantes',
     20,
     5,
     'Óleo para motores 4 tempos'
 ),
 (
-    'Pastilha de Freio',
+    'Pastilha de Freio Dianteira',
     80.00,
-    'Cobreq',
+    'freio',
     15,
     3,
     'Pastilha dianteira'
@@ -439,13 +439,13 @@ INSERT INTO servicos (
 )
 VALUES
 (
-    'Troca de Óleo',
+    'Substituição do óleo do motor e verificação do nível',
     120.00,
     40,
     'Substituição do óleo do motor'
 ),
 (
-    'Revisão Completa',
+    'Verificação completa do sistema elétrico e bateria',
     350.00,
     180,
     'Revisão geral da motocicleta'

@@ -51,9 +51,6 @@ O sistema centraliza todas as informações da oficina em uma única plataforma.
 
 - MySQL
 - PHP
-- HTML
-- CSS
-- JavaScript
 
 ---
 
